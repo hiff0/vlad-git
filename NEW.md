@@ -1,1 +1,1 @@
-I am Vlad
+Modified NEW.md, I am lerning English and programming
