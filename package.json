@@ -1,0 +1,20 @@
+{
+  "name": "vlad-git",
+  "version": "1.0.0",
+  "type": "module";
+  "description": "No code, NO pain Hello, i am Vlad Hello, i am Vlad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiff0/vlad-git.git"
+  },
+  "author": "vlad petrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiff0/vlad-git/issues"
+  },
+  "homepage": "https://github.com/hiff0/vlad-git#readme"
+}
