@@ -1,7 +1,7 @@
 {
   "name": "vlad-git",
   "version": "1.0.0",
-  "type": "module";
+  "type": "module",
   "description": "No code, NO pain Hello, i am Vlad Hello, i am Vlad",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hiff0/vlad-git/issues"
   },
-  "homepage": "https://github.com/hiff0/vlad-git#readme"
+  "homepage": "https://github.com/hiff0/vlad-git#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
